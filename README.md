@@ -2,7 +2,7 @@
 
 This project investigates how **temperature**, **salinity**, and **depth/pressure** 
 influence **dissolved oxygen concentration** in the Gulf of St. Lawrence, eastern 
-Canada — a region with a well-documented and expanding hypoxic zone that threatens 
+Canada, a region with a well documented and expanding hypoxic zone that threatens 
 marine ecosystems.
 
 We worked with two real oceanographic datasets (bottle samples + glider sensor data) 
@@ -14,7 +14,7 @@ using statistical analysis and machine learning.
 ## 📌 Project Overview
 
 Dissolved oxygen in seawater is essential for the survival of marine life. When 
-oxygen drops too low, areas become hypoxic — unable to support most species. 
+oxygen drops too low, areas become hypoxic, unable to support most species. 
 The Gulf of St. Lawrence is one such region where scientists have tracked an 
 expanding oxygen minimum zone for decades.
 
